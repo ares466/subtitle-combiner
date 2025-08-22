@@ -25,6 +25,6 @@ def combine_srt_files(directory, output_file):
 
 if __name__ == "__main__":
     srt_directory = "srt_files"
-    output_filename = "combined_subtitles.txt"
+    output_filename = "output/combined_subtitles.txt"
     combine_srt_files(srt_directory, output_filename)
     print(f"Combined subtitles saved to {output_filename}")
