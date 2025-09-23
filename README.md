@@ -15,11 +15,4 @@ This project provides a Python script to combine multiple SRT (SubRip Text) file
 
 4. **Use the following prompt to develop a learning plan.**  
 
-Please analyze the provided subtitles from a lecture or series of lectures. Your goal is to create a clear and comprehensive learning plan that helps me understand the key concepts and major topics discussed.
-
-The learning plan should include the following sections:
-
-1.  **Major Topics and Sub-topics:** Identify the main themes and break them down into their constituent sub-topics. Use the information in the subtitles to structure this.
-2.  **Key Definitions and Important Terms:** List and define the essential vocabulary introduced in the lecture.
-3.  **Core Questions and Concepts:** Detail the central questions or ideas explored in the lecture.
-4.  **Analogies and Examples:** Note any analogies or examples used to simplify complex topics.
+Please analyze the provided subtitles from a lecture or series of lectures. Your goal is to create a clear and comprehensive learning plan that helps me understand the key concepts and major topics discussed. The descriptions should be keyword-dense. Please walk me through the learning plan step-by-step only moving onto the next concept when I've understood the current concept.
